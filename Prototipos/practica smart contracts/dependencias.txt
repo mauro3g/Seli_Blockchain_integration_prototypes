@@ -1,0 +1,7 @@
+npm install --global --production windows-build-tools
+en el folder del proyecto
+npm init
+npm install solc@0.4.24 --save-dev
+npm install web3@1.0.0-beta.35 --save-dev
+npm install chalk --save-dev
+npm install truffle@4.1.15 -g
